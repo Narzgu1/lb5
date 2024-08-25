@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE blogpage SYSTEM "blogpage.dtd">
+<blogpage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<header>Лб5</header>
+	<header-desc>Тестова сторінка для практичного заняття #5</header-desc>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date> 23 травня 2023</date> 
+			<author>Колодій А.А. </author> 
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+            Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date> 23 травня 2023</date> 
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А.</author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                   практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                    Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+              Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                   завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+              Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+              Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>images/blog/футболистка.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                    Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>https://tabagisme.unisante.ch/wp-content/uploads/2019/09/test.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                   Практична робота 5
+                </keyword>
+				<keyword>
+                    завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>images/blog/футболистка.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+	<post>
+		<content>
+			<theme>Пост 1</theme>
+			<description>
+             Це тестовий текст для перевірки роботи XML документа, який був створений для виконання лабораторної роботи #5.
+            </description>
+		</content>
+		<meta>
+			<date>23 травня 2023</date>
+			<author>Колодій А.А. </author>
+			<keyWords>
+				<keyword>
+                    тест 
+                </keyword>
+				<keyword>
+                   Практична робота 5
+                </keyword>
+				<keyword>
+                   завдання
+                </keyword>
+			</keyWords>
+			<apps>
+				<picture>images/blog/футболистка.jpg</picture>
+				<applink>
+					<applink-name>Post</applink-name>
+					<value>https://dl.nure.ua/</value>
+				</applink>
+			</apps>
+		</meta>
+		<comms>
+			<comment>
+				<commentText>Мій коментар</commentText>
+				<comment-author>Користувач 1</comment-author>
+				<comment-tags>
+					<comment-tag>
+                     Коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Інший коментар</commentText>
+				<comment-author>Користувач 2</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      коментар
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+			<comment>
+				<commentText>Відповідь</commentText>
+				<comment-author>Автор</comment-author>
+				<comment-tags>
+					<comment-tag>
+                      Автор
+                    </comment-tag>
+				</comment-tags>
+			</comment>
+		</comms>
+	</post>
+</blogpage>
